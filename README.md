@@ -1,8 +1,8 @@
-# Jinlap Service
+# Jinlab Service
 
 ## About
 
-Jinlap connects Tibetans and Buddhist practitioners worldwide with monasteries across India and the Himalayan region, making sacred prayer services accessible to anyone, anywhere.
+Jinlab connects Tibetans and Buddhist practitioners worldwide with monasteries across India and the Himalayan region, making sacred prayer services accessible to anyone, anywhere.
 
 ### The Problem
 
@@ -10,7 +10,7 @@ Many Tibetans living in Western countries maintain deep spiritual connections to
 
 ### Our Solution
 
-Jinlap provides a direct digital bridge between devotees and monasteries. Users can:
+Jinlab provides a direct digital bridge between devotees and monasteries. Users can:
 
 - Browse and select monasteries by Buddhist sect, region, and location
 - Choose from various spiritual services (prayer ceremonies, butter lamp offerings, special pujas)
